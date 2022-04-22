@@ -1,14 +1,14 @@
 //
-//  LocationManagerApp.swift
-//  LocationManager
+//  WeatherAppApp.swift
+//  Check My Location
 //
-//  Created by Robert C on 4/1/22.
+//  Created by Robert C on 4/2/22.
 //
 
 import SwiftUI
 
 @main
-struct LocationManagerApp: App {
+struct SwiftUItestApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
